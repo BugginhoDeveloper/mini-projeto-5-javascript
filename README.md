@@ -38,5 +38,14 @@ O sistema deverá informar ao usuário:
 > - Você poderá tirar suas dúvidas no [Slack do Desafio][2]
 > - Ao finalizar o seu projeto, publique-o no Github e envie o link para bugginhodeveloper@gmail.com
 
+----------
+
+Quem já enviou?
+--------
+
+Confira abaixo uma lista com todos os amiguinhos que já concluíram o desafio:
+
+- Silas Balmante (https://github.com/balmanth/tilecalc)
+
 [1]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 [2]: https://bugginhominiprojetos.slack.com/
